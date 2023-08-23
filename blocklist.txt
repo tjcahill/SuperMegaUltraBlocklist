@@ -6,12 +6,9 @@
 !
 ! ------------------------------------[Allow]-------------------------------------
 @@||mailchi.mp^$important
-@@||analytics.google.com^$important
-@@||analytics.google.com^
 @@||fiber.q.com^$important
 @@||mask.icloud.com^$important
 @@||mask-h2.icloud.com^$important
-@@||assets.adobedtm.com^$important
 ! ------------------------------------[Block]-------------------------------------
 ||concert.io^
 ||cdn.concert.io^
