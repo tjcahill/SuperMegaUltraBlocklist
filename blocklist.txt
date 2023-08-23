@@ -1,8 +1,8 @@
 ! Super Mega Ultra Blocklist
 ! A collection of various lists, domains I add, and more.
-
+!
 ! Created: Aug 22, 2023
 ! Last updated: Aug 22, 2023
-
+!
 ! ------------------------------------[FILTERS]-------------------------------------
 ||frostforge.cloud^
