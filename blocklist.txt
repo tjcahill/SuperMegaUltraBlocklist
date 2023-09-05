@@ -15,4 +15,4 @@
 ||moatads.com^
 ||googleads.g.doubleclick.net^
 ||https://cdn.ampproject.org/amp4ads-v0.js^
-||securepubads.g.doubleclick.net^
+||doubleclick.net^
